@@ -29,9 +29,7 @@ Good to read:
 3. How -> Co chcemy zbudować, plan...
 4. Who -> dlaczego to my, a nie ktoś inny.
 
-Przykłady: 
-
-- [Inovo VC](https://medium.com/inside-inovo/the-not-so-secret-secret-to-getting-investors-interested-in-your-tech-d78e124cfe05)
+Wiecej na blogu od [Inovo VC](https://medium.com/inside-inovo/the-not-so-secret-secret-to-getting-investors-interested-in-your-tech-d78e124cfe05).
 
 ## Materiały dodatkowe
 
