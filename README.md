@@ -30,7 +30,7 @@ Not limited to:
 Good to read:
 
 - [Helpful blog post](https://liorn.substack.com/p/a-summary-of-my-learnings-on-how);
-- Paul Graham's blog posts: [1](http://www.paulgraham.com/startupideas.html)i [2](http://www.paulgraham.com/schlep.html).
+- Paul Graham's blog posts: [1](http://www.paulgraham.com/startupideas.html) i [2](http://www.paulgraham.com/schlep.html).
 - YCombinator videos: [1](https://www.youtube.com/watch?v=uvw-u99yj8w), [2](https://www.youtube.com/watch?v=vDXkpJw16os) i [3](https://www.youtube.com/watch?v=Th8JoIan4dg).
 
 ## Prezentacja pomysłu
