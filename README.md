@@ -6,6 +6,17 @@ Permanent WIP... materiały dla nauki.
 
 Plusy i minusy...
 
+## Narzędzia
+
+Wspólne miejsce dla pracy:
+
+- Google Drive / Google Docs - storing all relevant information,
+- Slack/Discord - communication,
+- Miro - brainstorming,
+- Figma - early mockups.
+
+Regularne spotkania.
+
 ## Finding idea
 
 Not limited to:
