@@ -31,6 +31,8 @@ Good to read:
 
 Wiecej na blogu od [Inovo VC](https://medium.com/inside-inovo/the-not-so-secret-secret-to-getting-investors-interested-in-your-tech-d78e124cfe05).
 
+Warto zajrzeć na stonę, np., [Hoxton Ventures](https://www.hoxtonventures.com/philosophy/), czasmi VC będą miały pokazane swoje portfolio (jego część ;) ), np., [Blossomcap](https://www.blossomcap.com/portfolio).
+
 ## Materiały dodatkowe
 
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop)
