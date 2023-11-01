@@ -51,5 +51,5 @@ Warto zajrzeć na stonę, np., [Hoxton Ventures](https://www.hoxtonventures.com/
 ## Materiały dodatkowe
 
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop)
-
+- https://tomtunguz.com/pitch-deck/
 
