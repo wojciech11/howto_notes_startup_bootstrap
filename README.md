@@ -44,6 +44,12 @@ Wiecej na blogu od [Inovo VC](https://medium.com/inside-inovo/the-not-so-secret-
 
 Warto zajrzeć na stonę, np., [Hoxton Ventures](https://www.hoxtonventures.com/philosophy/), czasmi VC będą miały pokazane swoje portfolio (jego część ;) ), np., [Blossomcap](https://www.blossomcap.com/portfolio).
 
+## Programy
+
+- [econverse](https://econverse.org/en/)
+
 ## Materiały dodatkowe
 
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop)
+
+
