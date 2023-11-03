@@ -13,9 +13,8 @@ Wspólne miejsce dla pracy:
 - Google Drive / Google Docs - storing all relevant information,
 - Slack/Discord - communication,
 - Miro - brainstorming,
-- Figma - early mockups.
-
-Regularne spotkania.
+- Figma - early mockups,
+- Regularne spotkania z dokumentem do trakowania dyskutowanych tematów (rekomendacja: Google Spreadsheet, 1tab = 1 spotkanie).
 
 ## Finding idea
 
