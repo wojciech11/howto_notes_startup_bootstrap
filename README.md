@@ -45,7 +45,7 @@ Warto zajrzeć na stonę, np., [Hoxton Ventures](https://www.hoxtonventures.com/
 
 ## Learnings
 
-As everything is an iteration and experiement, we need to capture what we learns, how our understanding changed.
+As everything is an iteration and experiement ([OODA](https://en.wikipedia.org/wiki/OODA_loop)), we need to capture what we learns, how our understanding changed.
 
 - retrospectives (with miro or [easyretro](https://easyretro.io)), you can start with one of two templates in the beginning:
 
