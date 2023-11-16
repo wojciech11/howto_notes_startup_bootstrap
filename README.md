@@ -43,12 +43,28 @@ Wiecej na blogu od [Inovo VC](https://medium.com/inside-inovo/the-not-so-secret-
 
 Warto zajrzeć na stonę, np., [Hoxton Ventures](https://www.hoxtonventures.com/philosophy/), czasmi VC będą miały pokazane swoje portfolio (jego część ;) ), np., [Blossomcap](https://www.blossomcap.com/portfolio).
 
+## Learnings
+
+As everything is an iteration and experiement, we need to capture what we learns, how our understanding changed.
+
+- retrospectives (with miro or [easyretro](https://easyretro.io)), you can start with one of two templates in the beginning:
+
+  - went well, to improve, action
+  - start, stop, continoue
+
+  Remember: spend time on what went well.
+
+- post-mortems
+- pre-mortems ([wiki](https://en.wikipedia.org/wiki/Pre-mortem))
+
+
 ## Programy
 
 - [econverse](https://econverse.org/en/)
 
 ## Materiały dodatkowe
 
+- [Startup School by YC](https://www.startupschool.org/curriculum/how-to-get-and-evaluate-startup-ideas)
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop)
 - https://tomtunguz.com/pitch-deck/
 
